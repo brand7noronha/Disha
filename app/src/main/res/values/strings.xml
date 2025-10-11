@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Career Guidance</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Main Activity -->
+    <string name="start_assessment">Start Assessment</string>
+    <string name="explore_careers">Explore Careers</string>
+    <string name="find_universities">Find Universities</string>
+    <string name="my_profile">My Profile</string>
+
+    <!-- Assessment -->
+    <string name="assessment_title">Career Assessment</string>
+    <string name="question_progress">%1$d/%2$d</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="finish">Finish</string>
+
+    <!-- Results -->
+    <string name="assessment_complete">Assessment Complete!</string>
+    <string name="recommended_careers">Recommended Careers</string>
+    <string name="explore_courses">Explore Related Courses</string>
+    <string name="retake_assessment">Retake Assessment</string>
+
+    <!-- General -->
+    <string name="back">Back</string>
+    <string name="share">Share</string>
+    <string name="learn_more">Learn More</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Error Messages -->
+    <string name="error_no_selection">Please select at least one option</string>
+    <string name="error_network">Network error. Please try again.</string>
+    <string name="error_data_not_found">Data not found</string>
+</resources>
