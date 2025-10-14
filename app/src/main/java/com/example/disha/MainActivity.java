@@ -13,6 +13,9 @@ import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
+import com.example.disha.activities.CareersActivity;
+import com.example.disha.activities.UniversitiesActivity;
+
 public class MainActivity extends AppCompatActivity {
 
     private LinearLayout btnStartAssessment;
